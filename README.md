@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jaimeteyller
-- 👀 I’m interested in Machine Learning (ML) and Computer Vision (CV) applied to Automation and Engineering and Software Development.
-- 🌱 I'm currently focusing more on web development and associated tools. The focus is to create webApps with ML, CV and data analytics.
-- 💞️ I’m looking to collaborate on the above described fields.
+- 👀 I’m interested in Machine Learning (ML) and Computer Vision (CV) applied to Engineering and Automation and Software Engineering.
+- 🎯 Currently I'm focusing more on web development and its associated tools. The goal is to use these concepts to create webApps with ML, CV and data analytics.
+- 🚀 I’m looking to collaborate on the above described fields.
 - 📫 To reach me, please send here a message or email.
 
 <!---
