@@ -33,6 +33,16 @@ hr {
     text-transform: capitalize;
 }
 
+.btn:hover {
+    transform: scale(1.2);
+    color: none;
+}
+
 .btn-xl {
     padding: 1rem 2rem;
+}
+
+.elements-animation {
+    animation: bounce;      /* referring directly to the animation's @keyframe declaration */
+    animation-duration: 2s;
 }
