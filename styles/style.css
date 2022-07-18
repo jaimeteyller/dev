@@ -43,6 +43,6 @@ hr {
 }
 
 .elements-animation {
-    animation: bounce;      /* referring directly to the animation's @keyframe declaration */
-    animation-duration: 2s;
+    animation: fadeInDown;      /* referring directly to the animation's @keyframe declaration */
+    animation-duration: 3s;
 }
